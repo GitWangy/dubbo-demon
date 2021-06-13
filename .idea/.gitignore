@@ -1,2 +1,23 @@
-# Default ignored files
-/workspace.xml
+*.class
+*.DS_Store
+*.lock
+*.swp
+.settings/
+.settings
+target/
+bin/
+.classpath
+.idea
+*.eml
+*.project
+*.tmp
+._*
+classes/
+.mymetadata
+.metadata
+*.iml
+.springBeans
+codegenerator.properties
+apidoc/
+
+jetty-contexts.xml
